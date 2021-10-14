@@ -1,0 +1,25 @@
+{
+  "name": "services01",
+  "version": "1.0.0",
+  "description": "labo01",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolassssssssss/services01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nicolassssssssss/services01/issues"
+  },
+  "homepage": "https://github.com/Nicolassssssssss/services01#readme",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "mongoose": "^6.0.10",
+    "nodemon": "^2.0.13"
+  }
+}
